@@ -1,0 +1,39 @@
+#create{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#create select{
+    
+    margin-left: 0px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 100%;
+    margin-top: 20px;
+   }
+#create input{
+   
+    margin-left: 0px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 99%;
+    margin-top: 20px;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+   
+}
+tr>th{
+    background-color: #ffd54d;
+    
+}
